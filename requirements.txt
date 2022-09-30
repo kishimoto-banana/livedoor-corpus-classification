@@ -10,7 +10,7 @@ gensim==3.6.0
 idna==2.7
 jieba==0.39
 jmespath==0.9.3
-joblib==0.12.5
+joblib==1.2.0
 lmdb==0.94
 marisa-trie==0.7.5
 mecab-python3==0.7
